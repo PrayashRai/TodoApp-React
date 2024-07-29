@@ -1,6 +1,4 @@
 
-Sure, here's a concise summary for your To-Do application in React, which you can use for your GitHub repository:
-
 React To-Do Application
 Overview
 A feature-rich To-Do application built with React and Redux, allowing users to manage tasks efficiently. The application includes functionality for creating, updating, and deleting tasks, as well as managing overdue and completed tasks.
