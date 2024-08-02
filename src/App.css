@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6, p {
 }
 
 .app-title {
-  color: #007bff;
+  color: #52796f;
   padding: 1.5rem;
   text-align:center;
   font-size: 2.5rem;
@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6, p {
 
 .login-form button {
   white-space: nowrap;
-  background-color: #007bff;
+  background-color: #52796f;
   color: #fff;
   border: none;
   padding: .75rem 1rem;
@@ -105,7 +105,7 @@ h1,h2,h3,h4,h5,h6, p {
 }
 .task-input-container button {
   white-space: nowrap;
-  background-color: #007bff;
+  background-color: #52796f;
   color: #fff;
   border: none;
   padding: .75rem 1rem;
@@ -132,7 +132,7 @@ h1,h2,h3,h4,h5,h6, p {
 }
 .tasks-container-header > h3 {
   margin-top: 0.5rem;
-  color: #007bff
+  color: #52796f
 }
 .no-tasks-found-message {
   text-align: center;
@@ -300,7 +300,7 @@ button.modal-open {
   text-align:center;
   border-bottom:1px solid #e0e0e0;
   text-transform:uppercase;
-  background: #007bff;
+  background: #52796f;
   color:#fff;
   border-radius:4px 4px 0 0;
 }
@@ -340,7 +340,7 @@ button.modal-open {
 }
 input:focus, textarea:focus {
   outline: 0;
-  border-color: #007bff;
+  border-color: #52796f;
 }
 
 .modal .input-image {
@@ -369,8 +369,8 @@ input:focus, textarea:focus {
 }
 .modal .button.primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #52796f;
+  border-color: #52796f;
 }
 
 .task-item-title {
